@@ -1,0 +1,4 @@
+br/com/texo/movies/model/MoviesPiorFilme.class
+br/com/texo/movies/repository/MoviesPiorFilmeRepository.class
+br/com/texo/movies/MoviesPiorFilmeApplication.class
+br/com/texo/movies/controller/MoviesPiorFilmeController.class
